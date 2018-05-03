@@ -11,8 +11,7 @@
   },
   "dependencies": {
     "bindings": "^1.3.0",
-    "integer": "^1.0.3",
-    "lzz-gyp": "git://github.com/m00g00/lzz-gyp.git"
+    "integer": "^1.0.3"
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
@@ -20,7 +19,8 @@
     "cli-color": "^1.2.0",
     "fs-extra": "^5.0.0",
     "mocha": "^4.1.0",
-    "sqlite": "^2.9.0"
+    "sqlite": "^2.9.0",
+    "lzz-gyp": "git://github.com/m00g00/lzz-gyp.git"
   },
   "scripts": {
     "install": "node deps/install",
